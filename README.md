@@ -41,3 +41,10 @@ landing-page/
 │ └── fonts/ # Custom fonts (if any)
 └── README.md # This file
 
+
+---
+
+## **🚀 Quick Start**  
+1. **Clone the repo**  
+   http://127.0.0.1:5500/idex.html
+
